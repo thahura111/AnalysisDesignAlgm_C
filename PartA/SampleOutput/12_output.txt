@@ -1,0 +1,30 @@
+ Enter the no of queens : 4
+
+ The solution to queens problem is 
+ x  Q  x  x 
+ x  x  x  Q 
+ Q  x  x  x 
+ x  x  Q  x 
+ 
+ 
+ 
+ =====================
+  Enter the no of queens : 3
+
+ The solution to queens problem is 
+
+ There is no solution to  3 queen problem 
+
+ =====================
+ 
+ 
+ Enter the no of queens : 5
+
+ The solution to queens problem is 
+ Q  x  x  x  x 
+ x  x  Q  x  x 
+ x  x  x  x  Q 
+ x  Q  x  x  x 
+ x  x  x  Q  x 
+ 
+ =====================

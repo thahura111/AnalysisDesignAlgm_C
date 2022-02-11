@@ -1,0 +1,40 @@
+
+
+ Enter the no of elements6
+
+ Enter the elements in ascending order 1
+7
+14
+22
+23
+30
+
+ Enter the sum30
+
+ Subset 1 =  1  7  22 
+ Subset 2 =  7  23 
+ Subset 3 =  30 
+
+ Subset 1 =  1  7  22 
+ Subset 2 =  7  23 
+ Subset 3 =  30 
+ 
+ 
+ 
+======================= 
+
+ Enter the no of elements
+ 4
+
+ Enter the elements in ascending order 
+20
+30
+40
+50
+
+ Enter the sum
+ 15
+
+No subset possible
+
+============================

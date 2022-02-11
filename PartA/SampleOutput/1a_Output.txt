@@ -1,0 +1,13 @@
+Enter the number of elements in the array : 
+5
+Enter the elements in the array : 
+30
+20
+50
+30
+40
+Enter the key element to search: 
+20
+sorted array is : 20 30 30 40 50
+The search element is found at position 1
+The ExecutionTime is = 0.001000 Of Milli Seconds

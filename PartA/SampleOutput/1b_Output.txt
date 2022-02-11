@@ -1,0 +1,13 @@
+Enter the number of elements in the array : 
+5
+Enter the elements in the array : 
+10
+19
+30
+29
+40
+Enter the key element to search: 
+29
+
+The search element is found at position 4
+The ExecutionTime is = 0.002000 Of Milli Seconds

@@ -1,0 +1,14 @@
+
+Number of vertices = 4
+Adjacency matrix = 
+    999      2      9      1
+      2      5      1     11
+      7      4      1     22
+     11      4      7      2
+
+Edge : (1,4) = 1
+Edge : (1,2) = 2
+Edge : (2,3) = 1
+The minimum cost of spanning tree is 4
+
+

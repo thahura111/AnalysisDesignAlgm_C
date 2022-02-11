@@ -1,0 +1,28 @@
+Enter the number of elements in the array : 
+5
+Enter the elements in the array : 
+5
+4
+3
+8
+2
+Enter 1 for Binary search, 2 for Linear search, 3 to exit: 
+1
+Enter the key element to search: 
+8
+sorted array is : 2 3 4 5 8
+
+The search element is found at position 5 in sorted arrayThe ExecutionTime is = 0.001000 Of Milli Seconds
+
+
+Enter 1 for Binary search, 2 for Linear search, 3 to exit: 
+2
+Enter the key element to search: 
+2
+
+The search element is found at position 5
+The ExecutionTime is = 0.001000 Of Milli Seconds
+
+
+Enter 1 for Binary search, 2 for Linear search, 3 to exit: 
+3

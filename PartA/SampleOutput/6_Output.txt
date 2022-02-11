@@ -1,0 +1,13 @@
+ Enter the number of vertices : 4
+
+ Enter the adjacency matrix : 
+0       10      0       40
+0       0       0       20
+50      0       0       0
+0       0       60      0
+
+ All pair shortest path is : 
+     0    10    90    30
+   130     0    80    20
+    50    60     0    80
+   110   120    60     0

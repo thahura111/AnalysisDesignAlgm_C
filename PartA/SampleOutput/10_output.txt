@@ -1,0 +1,15 @@
+
+Number of vertices = 5
+Adjacency matrix = 
+    999      1    999      3     10
+    999      0      5    999    999
+    999    999      0    999      1
+    999    999      2    999      6
+    999    999    999    999      0
+
+ Graph is connected
+ No of connected elemens : 1 
+ Vertex 1 belongs to component 1
+ Vertex 2 belongs to component 1
+ Vertex 3 belongs to component 1
+ Vertex 4 belongs to component 1

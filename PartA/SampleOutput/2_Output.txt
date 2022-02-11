@@ -1,0 +1,9 @@
+Enter the number of elements in the array : 
+3
+Enter the elements in the array : 
+1
+2
+3
+Minimum element = 1 
+Maximum element = 3 
+The ExecutionTime is = 0.019000 Of Milli Seconds

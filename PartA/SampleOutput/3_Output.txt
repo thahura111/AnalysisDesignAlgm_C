@@ -1,0 +1,10 @@
+Enter the number of elements in the array : 
+4
+Enter the elements in the array : 
+20
+10      
+50
+30
+Elements of array before quicksort : 20 10 50 30
+Elements of array after quicksort : 10 20 30 50
+The ExecutionTime is = 0.002000 Of Milli Seconds

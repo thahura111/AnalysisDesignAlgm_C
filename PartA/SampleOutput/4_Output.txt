@@ -1,0 +1,10 @@
+Enter the number of elements in the array : 
+4
+Enter the elements in the array : 
+1
+1
+1
+1
+Elements of array before merge sort : 1 1 1 1
+Elements of array after merge sort : 1 1 1 1
+The ExecutionTime is = 0.012000 Of Milli Seconds

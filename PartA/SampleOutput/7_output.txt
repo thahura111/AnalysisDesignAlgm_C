@@ -1,0 +1,30 @@
+
+ Enter the number of vertices : 3
+
+ Enter the adjacency matrix : 
+1 0 1
+0 0 1
+0 1 0
+
+ After 1  iteration of k : 
+     1   999     1
+   999     0     1
+   999     1     0
+
+
+ After 2  iteration of k : 
+     1   999     1
+   999     0     1
+   999     1     1
+
+
+ After 3  iteration of k : 
+     1     1     1
+   999     1     1
+   999     1     1
+
+
+ Matrix after applying Warshall' algorithm is : 
+     1     1     1
+     0     1     1
+     0     1     1
