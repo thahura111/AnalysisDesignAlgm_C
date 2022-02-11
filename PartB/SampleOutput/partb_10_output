@@ -1,0 +1,18 @@
+
+ Enter no of vertices :
+5
+Enter the adjacency matrix
+0  1  0  1  0  
+0  0  0  1  1  
+1  0  0  1  0  
+0  0  0  0  1        
+0  0  0  0  0  
+
+ Enter the source vertex 
+1
+ 
+ The nodes that are reachable from 1 are : 
+1     
+2     
+4     
+5  

@@ -1,0 +1,43 @@
+
+Enter the number of elements: 
+5
+
+Enter the element of the array : 
+4
+6
+8
+3
+1
+
+Enter the element to search : 
+8
+
+
+Elements in array are : 
+4  ,  6  ,  8  ,  3  ,  1  ,  
+
+Element 8 found at position : 3  
+
+======================================
+
+Enter the number of elements: 
+6
+
+Enter the element of the array : 
+5
+4
+3
+2
+1
+6
+
+Enter the element to search : 
+10
+
+
+Elements in array are : 
+5  ,  4  ,  3  ,  2  ,  1  ,  6  ,  
+
+Element not found
+
+=======================================

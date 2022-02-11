@@ -1,0 +1,29 @@
+
+ Enter no of vertices : 
+4
+Enter the adjacency matrix
+0
+1
+1
+1
+1
+0
+1
+0
+1
+1
+0
+1
+1
+0
+1
+0
+
+ Enter the source vertex 
+4
+4 1 2 3  
+ The nodes that are reachable from 4 are : 
+1     
+2     
+3     
+4 

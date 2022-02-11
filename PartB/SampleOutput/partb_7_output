@@ -1,0 +1,16 @@
+
+ Element 1 : w[0] = 100 , p[0]=20 , ratio of profit/weight = 0.200000
+ Element 2 : w[1] = 14 , p[1]=18 , ratio of profit/weight = 1.285714
+ Element 3 : w[2] = 10 , p[2]=15 , ratio of profit/weight = 1.500000
+ Element 4 : w[3] = 20 , p[3]=25 , ratio of profit/weight = 1.250000
+ Element 5 : w[4] = 200 , p[4]=20 , ratio of profit/weight = 0.100000
+ M = 116 
+
+ Adding the element 3  to knapsack, ( 10 weight  , 15 profit ) , remainingCapacity = 106.000000 
+ Adding the element 2  to knapsack, ( 14 weight  , 18 profit ) , remainingCapacity = 92.000000 
+ Adding the element 4  to knapsack, ( 20 weight  , 25 profit ) , remainingCapacity = 72.000000 
+
+ RemainingCapacity is not sufficiet to add other elements as whole
+
+
+ Total profit in knapsack is : 58.000000

@@ -1,0 +1,47 @@
+
+Enter the number of elements: 
+6
+
+Enter the element of the array : 
+5
+4
+3
+2
+1
+7
+
+Enter the element to search : 
+5
+
+
+Elements in array are : 
+5  ,  4  ,  3  ,  2  ,  1  ,  7  ,  
+
+Elements after sorting are : 
+4  ,  3  ,  2  ,  1  ,  5  ,  7  ,  
+
+Element 5 found at position : 5  
+
+======================================
+
+Enter the number of elements: 
+5
+
+Enter the element of the array : 
+5
+4
+3
+2
+1
+
+Enter the element to search : 
+10
+
+
+Elements in array are : 
+5  ,  4  ,  3  ,  2  ,  1  ,  
+
+Elements after sorting are : 
+4  ,  3  ,  2  ,  1  ,  5  ,  
+
+Element not found
